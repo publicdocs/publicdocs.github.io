@@ -2,7 +2,7 @@
 title: Science Data - Public Docs Project
 ---
 
-In addition to the data that we are [archiving](/) regarding United States,
+In addition to the data that we are [archiving](/) regarding United States history,
 we'd also like to archive and analyze public science data.
 
 ## Wildfires
